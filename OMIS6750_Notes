@@ -1,4 +1,4 @@
-#2024-05-09 Class1
+###2024-05-09 Class1
 Chapter 1
 
 Project Management fundaments are universial.
@@ -99,9 +99,9 @@ One of the distinguishing chara is that it has both beginning and ending and typ
 defining, planning, excuting, and closing.
 Require both social and technical skills.
 PM have to plan and budget projects as wella orchestrate th contributions of others.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-#2024-05-16 Class2 
+###2024-05-16 Class2 
 Organization Strategy, Struture, and Culture and Project
 
 ***Two main reasons project managers needs to understand their organization's mission and strategy:
@@ -153,6 +153,7 @@ T - Time related - State when the objective can be achieved, that is, duration
 
 
 ***The Need for a Project Priority System
+
 Implementation of projects without a strong priority system linked to strategy creates problems.
 
 Problem 1: The Implementation Gap
@@ -166,8 +167,75 @@ persuasiveness and power of people advocating projects.
 official is advocating.
 
 Problem 3: Resource Conflicts and Multitasking
-    A multi-project environment creates the problems of project interdependency
-and the need to share resources. Resource sharing leads to multitasking –
-starting and stopping work on one task to go and work on another project,
-then returning to the work on the original task.
+    A multi-project environment creates the problems of project interdependency and the need to share resources. Resource sharing leads to multitasking –
+starting and stopping work on one task to go and work on another project, then returning to the work on the original task.
+
+***Benefits of Project Portfolio Management
+
+    Builds discipline into project selection process.
+    Links project selection to strategic metrics.
+    Prioritizes project proposals across a common set of criteria, instead of politics or emotion.
+    Allocates resources to projects that align with strategic direction.
+    Balances risk across all projects.
+    Justifies killing projects that do not support organization strategy.
+    Improves communication and supports agreement on project goals.
+
+***Project Classification
+
+Compliance (must do) projects
+Strategic projects
+Operational projects
+
+
+***Phase Gate Model
+    Phase Gate Model
+    Is a series of gates that a project must pass through to be completed.
+    Its purpose is to ensure that the organization is investing time and resources on worthwhile projects that contribute to its mission and strategy.
+    Each gate is associated with a project phase and represents a decision point.
+    A gate can lead to three possible outcomes: go (proceed), kill (cancel), or recycle (revise and resubmit).
+
+
+***Phase Gate Process Diagram
+
+Phase 1 - Idea
+Gate 1
+Phase 2 - Proposal
+Gate 2
+Phase 3 - Screening and selection
+Gate 3
+Phase 4 - Implementation plan
+Gate 4
+Phase 5 - Progress evaluation
+Gate 5
+Phase 6 - Closure
+Gate 6
+
+
+***Election Criteria
+
+    Financial Criteria
+        Payback
+        Net present value (NPV)
+    Nonfinancial Criteria
+        Projects of strategic importance to the firm
+    Two Multi-Criteria Selection Models
+        Checklist Models
+        Multi-Weighted Scoring Models
+
+***Financial Criteria: The Payback Model P.18
+Measures the time the project will take to recover the project investment.
+    Desires shorter paybacks.
+    Is the simplest and most widely used model.
+    Emphasizes cash flows, a key factor in business.
+
+Limitations of the Payback Method
+    Ignores the time value of money.
+    Assumes cash inflows for the investment period (and not beyond).
+    Does not consider profitability.
+        The Payback formula is
+            𝑃𝑎𝑦𝑏𝑎𝑐𝑘 𝑝𝑒𝑟𝑖𝑜𝑑 𝑦𝑟𝑠 = 𝐸𝑠𝑡𝑖𝑚𝑎𝑡𝑒𝑑 𝑝𝑟𝑜𝑗𝑒𝑐𝑡 𝑐𝑜𝑠𝑡/𝐴𝑛𝑛𝑢𝑎𝑙 𝑆𝑎𝑣𝑖𝑛𝑔𝑠
+
+
+
+
 
