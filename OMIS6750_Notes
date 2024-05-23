@@ -284,6 +284,96 @@ Portfolio               - How does this project interact with current projects
 
 ***Multi-Weighted Scoring Models: Project Screening Matrix Criteria p.25
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+###2024-05-23 Class3
+Defining the Project
+
+
+
+***Five General Steps for Collecting Project Information
+Step 1: Defining the Project Scope
+Step 2: Establishing Project Priorities
+Step 3: Creating the Work Breakdown Structure
+Step 4: Integrating the WBS with the Organization
+Step 5: Coding the WBS for the Information System
+
+Process Breakdown Structure
+Responsibility Matrices
+Project Communication Plan
+
+
+***STEP 1: Defining the Project Scope
+    Project Scope Defined
+        The end result or mission of your project: a product or service for your client/customer/TEAM.
+        Defines the results to be achieved in specific, tangible, and measurable terms. 
+    Purposes of the Project Scope Statement (WHY)
+        To clearly define the deliverable(s) for the end user.
+        To direct focus on the project purpose during the project for the customer and participants.
+        To be published and used by the project owner and participants for planning and measuring project success.
+
+***Project Scope Checklist
+    Project Objective: 
+        What, When, How much, and Where
+    project Scope Description: 
+        The Characteristics of the product, service, outcoome of the project
+    Justification:
+        Why the project authorized?
+        What is the problem or opportunity the project addressing
+    Deliveriables:
+        Expected, measurable outputs over the project
+    Milestones:
+        Significiant event in a project that can mark on the timeline.
+    Technical requirements:
+        Clarifies the deliverables or defines the performance specifications.
+    Limits and exclusions: Things we will NOT do.
+        MUST. Failure to do so leads to false expectations, extra resources and time.
+    Acceptance criteria:
+        Set of conditions that must be met BEFORE the deliverables are accepted.
+
+ ***Project Scope: Terms and Definitions
+    Scope Statements
+        A short, one- to two-page SUMMARY of key elements of the scope, followed by extended documentation of each element.
+        Also referred to as Statements of work (SOWs).
+    Project Charter
+        Documentation that authorizes the project manager to initiate and lead the project.
+        Often includes a brief scope description as well as such items as risk limits, business case, spending limits, and even team composition.
+    Scope Creep
+        The tendency for the project scope to expand over time, usually by changing requirements, specifications, and priorities.
+            Five most common causes of the Scope Creep:
+                Poor requirement analysis
+                Not involving users early enough
+                Underestimating project complexity
+                Lack of change control
+                Gold plating
+
+***Project Complexity p.16, EXAMPLES p.17
+    a two-by-two matrix where degree of goal definition was mapped against degree of method definition.
+
+    Type 1: Goals and Methos ae both well-defined.
+        The goals and methods of achieving the project are well defined.
+        ex:
+    Type 2: ONLY goals are well-defined.
+        The goals are well defined, but the methods are not.
+        ex:
+    Type 3: ONLY methods are well-defined.
+        The goals are not well defined, but the methods are.
+        ex:
+    Type 4: None is well-defined.
+        Neither the goals nor the methods are well defined.
+        ex:
+
+FOUR sources of complexity:
+    STRUCTURAL complexity 
+        Stems from the difficulty in managing and keeping track of many different interconnected tasks and activities 
+            (e.g., large construction, engineering and defense projects
+    TECHNICAL complexity 
+        Found in projects which have technical, or design problems associated with products that have never been produced before, or with techniques that are unknown or untried.
+    DIRECTIONAL complexity 
+        Originates from ambiguity related to multiple interpretations of goals and objectives and is found in projects with unshared goals, unclear meanings and hidden agendas.
+    TEMPORAL complexity
+        Found in projects characterized by shifting and unanticipated environmental impacts, unexpected legislative changes or the development of new technologies.
 
 
 
