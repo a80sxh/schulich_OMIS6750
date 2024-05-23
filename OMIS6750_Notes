@@ -403,10 +403,36 @@ FOUR sources of complexity:
         Serves as a framework for tracking cost and work performance.
         Is best for design and build projects that have tangible outcomes rather than process-oriented projects.
 
+    Hierarchical Breakdown of the WBS p.23
 
+    How WBS Helps the Project Manager? (没细讲)
+        Assures project managers that all products and work elements are identified, to integrate the project with the current organization, and to establish a basis for control.
+        Facilitates the evaluation of cost, time, and technical performance at all levels in the organization over the life of the project.
+        Provides management with information appropriate to each organizational level.
+        Helps project managers to plan, schedule, and budget the project.
+        Helps in the development of the organization breakdown structure (OBS), which assigns project responsibilities to organization units and individuals.
+        Provides the opportunity to 'roll up' (sum) the budget and actual costs of the smaller work packages into larger work elements.
+        Defines communication channels and assists in understanding and coordinating the project.
 
+    Work Breakdown Structure p.25 
+    3-5 levels for the project (managable level)
 
+    A Work Package
+        Is the lowest level of the WBS.
+        Is a short-duration task with a definite start and stop, consumes resources, and represents cost.
+        Should not exceed 10 workdays or one reporting period.
+        Should be as independent of other work packages of the project as possible.
+        Is the basic unit used for planning, scheduling, and controlling the project.
 
+    Each Work Package in the WBS: p.27
+        Define Work - WHAT
+        Identifies time to complete a work package - HOW LONG
+        Identifies a time-phased budget to complete a work package - COST/BUDGET
+        Identifies resources needed to complete a work package - HOW MUCH
+        Identifies a single person responsible for units of work - WHO
+        Identifies monitoring points for measuring progress - HOW WELL
+
+***STEP 4: Integrating the WBS with the Organization
 
 
 
