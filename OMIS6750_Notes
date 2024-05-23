@@ -432,9 +432,21 @@ FOUR sources of complexity:
         Identifies a single person responsible for units of work - WHO
         Identifies monitoring points for measuring progress - HOW WELL
 
-***STEP 4: Integrating the WBS with the Organization
+***STEP 4: Integrating the WBS with the Organization (NOT ON AICP)
 
+    Integration of WBS and OBS p.29
 
+ ***Step 5: Coding the WBS for the Information System
+    WBS Coding System
+        Defines
+            Levels and elements in the WBS
+            Organization elements
+            Work packages
+            Budget and cost information
+            Allows reports to be consolidated at any level in the structure.   
+
+    WBS Dictionary
+        Provides detailed information about each element in the WBS.
 
 
 
