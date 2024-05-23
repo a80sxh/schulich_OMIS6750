@@ -448,8 +448,50 @@ FOUR sources of complexity:
     WBS Dictionary
         Provides detailed information about each element in the WBS.
 
+    PBS for Software Development Project p.33
+
+    Responsibility Matrices (IN AICP)
+        Is also called a linear responsibility chart.
+        Summarizes the tasks to be accomplished and who is responsible for what on the project.
+        Lists all the project activities and the participants responsible for each activity.
+        Clarifies interfaces between units and individuals that require coordination.
+        Provides a mean for all project participants to view their responsibilities and agree on their assignments.
+        Clarifies the extent or type of authority exercised by each participant.
 
 
+    Responsibility Assignment Matrix (RACI) p.36 NEED TO DO, example on p.37 (Everyone need to have 1 R and 1 A)
+        The RACI matrix shows FOUR levels of responsibility, with each level abbreviated to the acronym RACI:
+        R    A group is RESPONSIBLE for completing project work.
+        A    Is for ACCOUNTABLE. This group can make project decisions, approve deliverables, and can delegate work.
+        C    The group is CONSULTED about project decisions.
+        I    Is for INFORM, which means that the group only requires task information.
+
+                You dont want: p.38,39 will be in the first assignment
+                                TOO much R in one person
+                                EMPTY CELL, but not everyone need to fill out
+                                BUY-IN
+                                TOO many C, time is wasted
+                                Over 1 A as someone needs to make the final SAY
+                                Make sure all stakeholders is involved
+
+    Project Communication Plan (IN AICP)
+        Address the following questions:
+            What information needs to be collected and when?
+            Who will receive the information?
+            What methods will be used to gather and store information?
+            What are the limits, if any, on who has access to certain kinds of information?
+            When will the information be communicated?
+            How will it be communicated?
+
+    Steps for Developing a Communication Plan
+        Stakeholder analysis - identify the target groups. Start wide, then narrow it down.
+        Information needs - status reports, deliverable issues, changes in scope, team status meetings, gating decisions, accepted request changes, action items, milestone reports.
+        Sources of information - where does the information reside? Address the information clearly.
+        Dissemination modes - hardcopy, e-mail, teleconferencing, SharePoint, Google Docs and a variety of database sharing programs.
+        Responsibility and timing - determine who will send out the formation and when. TIMING MATTERS!
+
+    Stakeholder Communications p.42
+    
 
 
 
