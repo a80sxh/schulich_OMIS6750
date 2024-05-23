@@ -313,7 +313,7 @@ Project Communication Plan
         To direct focus on the project purpose during the project for the customer and participants.
         To be published and used by the project owner and participants for planning and measuring project success.
 
-***Project Scope Checklist
+Project Scope Checklist
     Project Objective: 
         What, When, How much, and Where
     project Scope Description: 
@@ -332,7 +332,7 @@ Project Communication Plan
     Acceptance criteria:
         Set of conditions that must be met BEFORE the deliverables are accepted.
 
- ***Project Scope: Terms and Definitions
+Project Scope: Terms and Definitions
     Scope Statements
         A short, one- to two-page SUMMARY of key elements of the scope, followed by extended documentation of each element.
         Also referred to as Statements of work (SOWs).
@@ -341,6 +341,7 @@ Project Communication Plan
         Often includes a brief scope description as well as such items as risk limits, business case, spending limits, and even team composition.
     Scope Creep
         The tendency for the project scope to expand over time, usually by changing requirements, specifications, and priorities.
+
             Five most common causes of the Scope Creep:
                 Poor requirement analysis
                 Not involving users early enough
@@ -348,32 +349,84 @@ Project Communication Plan
                 Lack of change control
                 Gold plating
 
-***Project Complexity p.16, EXAMPLES p.17
+Project Complexity p.16, EXAMPLES p.17
     a two-by-two matrix where degree of goal definition was mapped against degree of method definition.
 
     Type 1: Goals and Methos ae both well-defined.
         The goals and methods of achieving the project are well defined.
-        ex:
+        ex: building a house/ website
     Type 2: ONLY goals are well-defined.
         The goals are well defined, but the methods are not.
-        ex:
+        ex: Programming
     Type 3: ONLY methods are well-defined.
         The goals are not well defined, but the methods are.
-        ex:
+        ex: Using AI but dont know where going.
     Type 4: None is well-defined.
         Neither the goals nor the methods are well defined.
-        ex:
+        ex: Research project, Space stuff
 
 FOUR sources of complexity:
     STRUCTURAL complexity 
         Stems from the difficulty in managing and keeping track of many different interconnected tasks and activities 
-            (e.g., large construction, engineering and defense projects
+            (e.g., large construction, engineering and defense projects)
     TECHNICAL complexity 
         Found in projects which have technical, or design problems associated with products that have never been produced before, or with techniques that are unknown or untried.
     DIRECTIONAL complexity 
         Originates from ambiguity related to multiple interpretations of goals and objectives and is found in projects with unshared goals, unclear meanings and hidden agendas.
     TEMPORAL complexity
         Found in projects characterized by shifting and unanticipated environmental impacts, unexpected legislative changes or the development of new technologies.
+
+
+
+***STEP 2: Establishing Project Priorities
+    Three major criteria (trade-offs) that a project manager must manage are: and they are the triple constraint triangle, inner is the quality.
+        1. COST(budget)
+        2. Time (schedule)
+        3. Performance (scope)
+
+    Project manager can manage the project trade-offs by completing a priority matrix for the project and identifying which criterion is:
+        Constrain: 
+            original parameter is fixed.
+        Enhance: 
+            a criterion should be optimized.
+        Accept: 
+            a criterion is tolerable not to meet the original parameter.
+    
+    Project Priority Matrix for the Development of a New Wireless Router p.21
+
+***STEP3: Creating the Work Breakdown Structure
+    Creating the Work Breakdown Structure
+        Is a hierarchical outline of the project with different levels of detail.
+        Identifies the products and work elements involved in a project.
+        Defines the relationship of the final deliverable (the project) to its sub-deliverables and their relationships to work packages.
+        Serves as a framework for tracking cost and work performance.
+        Is best for design and build projects that have tangible outcomes rather than process-oriented projects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
