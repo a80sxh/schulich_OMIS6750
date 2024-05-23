@@ -367,7 +367,7 @@ Project Complexity p.16, EXAMPLES p.17
 
 FOUR sources of complexity:
     STRUCTURAL complexity 
-        Stems from the difficulty in managing and keeping track of many different interconnected tasks and activities 
+        Stems from the difficulty in managing and keeping track of many different interconnected tasks and activities. 
             (e.g., large construction, engineering and defense projects)
     TECHNICAL complexity 
         Found in projects which have technical, or design problems associated with products that have never been produced before, or with techniques that are unknown or untried.
@@ -380,9 +380,10 @@ FOUR sources of complexity:
 
 ***STEP 2: Establishing Project Priorities
     Three major criteria (trade-offs) that a project manager must manage are: and they are the triple constraint triangle, inner is the quality.
-        1. COST(budget)
+        1. COST (budget)
         2. Time (schedule)
         3. Performance (scope)
+    You CAN'T changeing one without effect others.
 
     Project manager can manage the project trade-offs by completing a priority matrix for the project and identifying which criterion is:
         Constrain: 
