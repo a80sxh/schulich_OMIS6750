@@ -607,13 +607,83 @@ Bottom-Up Estimation:
 
 ###Apportion Method of Allocating Project Costs Using the WBS p.17
 
+###Level of Detail  
+    The level of detail in the WBS varies with:
+        The complexity of the project
+        The need for control
+        The project size, cost, and duration
+        Other factors
+
+    Excessive detail:
+            Emphasizes departmental outcomes rather than deliverable outcomes
+            Creates more unproductive paperwork
+    Inadequate detail:
+        Falls short of meeting the structure's needs
+
+###Types of Costs
+    Direct Costs
+        Are clearly chargeable to a specific work package
+        Examples: Labor, materials, equipment, and other
+
+    Direct Project Overhead Costs
+        Can be tied to project deliverables or work packages
+        Examples: Salary of the project manager, temporary rental space for the project team, supplies, specialized machinery
+
+    General and Administrative (G&A) Overhead Costs
+        Are not directly linked to a specific project
+        Examples: Advertising, accounting, salary of senior management above the project level
 
 
+###Refining Estimates
+    Interaction costs are hidden in estimates
+    Normal conditions do not apply
+    Things go wrong on projects
+    Project scope and plans change
+    People are overly optimistic
+    People engage in strategic misrepresentation
 
 
+###Creating a Database for Estimating p.28
 
 
+###Mega Projects: A Special Case
+    
+    Mega Projects Defined
+        Are large-scale, complex ventures that typically cost $1 billion or more, take many years to complete, and involve multiple private and public stakeholders.
+            Examples: High-speed rail lines, airports, healthcare reform, the Olympics,development of new aircraft 
+    Often involve a double whammy
+        Projects cost much more than expected and under-deliver on promised benefits.
+    Are sometimes referred to as "white elephant".
+        Projects are over budget, under value and the costs of maintaining the project exceed the benefits received.
 
+###The Reference Class Forecasting (RCF)
 
+Three Major Steps:
+    1.Select a reference class of projects similar to your potential project.
+    2.Collect and arrange outcome data as a distribution. Create a distribution of cost overruns as a percentage of the original project estimate (low to high).
+    3.Use the distribution data to arrive at a realistic forecast. Compare the original cost estimate for the project with the reference class projects.
 
+Benefits:
+    Outside empirical data mitigates human bias.
+    Politics, strategic, and promoter forces have difficulty ignoring outside RCF information.
+    RCF serves as a reality check for funding large projects.
+    RCF helps executives avoid unsound optimism.
+    RCF leads to improved accountability.
+    RCF provides a basis for project contingency funds.
 
+###Key Terms:
+Apportionment
+Bottom-up estimates
+Delphi Method
+Direct costs
+Function points
+Learning curve
+Overhead costs
+Phase estimating
+Range estimating
+Ratio method
+Reference class forecasting (RCF)
+Template method
+Time and cost databases
+Top-Down estimates
+White Elephant
