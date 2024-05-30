@@ -537,6 +537,7 @@ Usually DO BOTH
         ...
 
 ###Estimating Guidelines for Times, Costs, and Resources
+
     1.Responsibility
             Estimates should be made by the person(s) most familiar with the task.
     2.The use of several people to estimate
@@ -553,22 +554,55 @@ Usually DO BOTH
             Identifying the degree of risk lets stakeholders consider alternative methods and alter process decisions.
 
 
+###Top-Down versus Bottom-Up Estimating
+
+***Top-Down Estimates
+    Are usually derived from someone who uses experience and/or information to determine the project duration and total cost.
+
+    Are sometimes made by top managers who have little knowledge of the component activities used to complete the project.
+
+***Bottom-Up Estimates
+    Can take place after the project has been defined in detail.
+
+    Can serve as a check on cost elements in the WBS by rolling up the work packages and associated cost accounts to major deliverables.
+
+    Provide the customer with an opportunity to compare the low-cost, efficient method approach with any imposed restrictions.
 
 
+###Conditions for Preferring Top-Down or Bottom-Up Time and Cost Estimates
+
+Top-Down Estimation:
+    Strategic Decision Making
+    High uncertainty
+    Internal, small project
+    Unstable scope
 
 
+Bottom-Up Estimation:
+    Cost and time important
+    Fixed-price contract
+    Customer wants details
+
+###The Preferred Approach in Defining the Project
+    Make rough top-down estimates
+    Develop the WBS/OBS
+    Make bottom-up estimates
+    Develop schedules and budgets
+    Reconcile differences between top-down and bottom-up estimates
 
 
+###Methods for Estimating Project Times and Costs
+    Top-Down Approaches:
+        Consensus Method
+        Ratio Method
+        Apportion Method
+        Function Point Methods for Software and System Projects
+        Learning Curves
 
-
-
-
-
-
-
-
-
-
+    Bottom-Up Approaches:
+         Template Method
+        Parametric Procedures Applied to Specific Tasks
+        Range Estimating
 
 
 
