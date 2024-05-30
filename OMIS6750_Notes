@@ -503,8 +503,54 @@ CASE 1 INSTRUCTION p.45
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###2024-05-30 Class4
+Estimate
 
 
+###Project Estimating
+
+Estimating Defined
+    The process of forecasting or approximating the time and cost of completing project deliverables.
+    Is a trade-off, balancing the benefits of better accuracy against the costs for the accuracy.
+
+Types of Estimates
+    Top-down (macro) estimates - analogy, group consensus, or mathematical relationships.
+    Bottom-up (micro) estimates - based on estimates of elements found in the work breakdown structure.
+
+Usually DO BOTH
+
+###Why Estimating Time and Cost Is Important
+    Estimates are needed to support good decisions.
+    Estimates are needed to schedule work.
+    Estimates are needed to determine how long the project should take and cost.
+    Estimates are needed to determine whether the project is worth doing.
+    Estimates are needed to develop cash flow needs.
+    Estimates are needed to determine how well the project is progressing.
+
+
+###Factors Influencing the Quality of Estimates:
+        Planning Horizon
+        Project Complexity
+        people
+        Project Structure and Organization
+        Padding Estimates lads to overtiming
+        Prganizational Culture
+        ...
+
+###Estimating Guidelines for Times, Costs, and Resources
+    1.Responsibility
+            Estimates should be made by the person(s) most familiar with the task.
+    2.The use of several people to estimate
+            Estimates have a better chance of being reasonable and realistic when several people with relevant experience and/or knowledge of the task are used.
+    3.Normal conditions
+            Estimates should be based on normal conditions, efficient methods, and a normal level of resources.
+    4.Time units
+            All task time estimates need consistent time units.
+    5.Independence
+            Treat each task as independent of other tasks that might be integrated into the WBS.
+    6.Contingencies
+            Work package estimates should not include allowances for contingencies.
+    7.Risk assessment added to the estimate to avoid surprises to stakeholders
+            Identifying the degree of risk lets stakeholders consider alternative methods and alter process decisions.
 
 
 
